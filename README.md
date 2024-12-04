@@ -1,13 +1,17 @@
 # Hi 👋, I'm Vishnupriya
 
+
 ## A passionate developer from Kerala, India
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTRlNDU1ZmI4ZDdkNzY0NzRhODJmMGU1ZDBlNTM4ZTc5ZGQ5YmZhNCZlcD12anZlbnRfc2VhcmNoX2dpcJF8eHhfZ2lm/ZVik7pBtu9s3K/giphy.gif" width="400" alt="Girl Coding" />
+<img align="center" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/lofi.gif" />
+<br><br>
 </div>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vishnupriy-a&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://vishnupriya.vercel.app">
+    <img src="https://komarev.com/ghpvc/?username=vishnupriy-a&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ### 📬 Contact Me
